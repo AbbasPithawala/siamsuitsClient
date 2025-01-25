@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99b3381e.css",
+    "main.js": "/static/js/main.48a7d313.js",
+    "static/js/498.47ea2969.chunk.js": "/static/js/498.47ea2969.chunk.js",
+    "static/js/703.2c790ccf.chunk.js": "/static/js/703.2c790ccf.chunk.js",
+    "static/js/598.2602b7a6.chunk.js": "/static/js/598.2602b7a6.chunk.js",
+    "static/media/Loginbg.png": "/static/media/Loginbg.69199734864283154168.png",
+    "static/media/THSarabunNewRegular.ttf": "/static/media/THSarabunNewRegular.55f2e139e7ef8d4a7f15.ttf",
+    "static/media/JACKET-1.png": "/static/media/JACKET-1.4303c0c35b0283ce2f8e.png",
+    "static/media/JACKET-3.png": "/static/media/JACKET-3.210bc39e01a9fabfbc88.png",
+    "static/media/JACKET.png": "/static/media/JACKET.1638084fc00cc7214e34.png",
+    "static/media/SHIRT.png": "/static/media/SHIRT.dd9ea9077055f4a59f2a.png",
+    "static/media/ImageUpload.png": "/static/media/ImageUpload.e1fe3be999a14f01f3b3.png",
+    "static/media/just.jpg": "/static/media/just.83a2671c17bd57b4733a.jpg",
+    "static/media/SHIRT-1.png": "/static/media/SHIRT-1.bfdf0f173194c87aea31.png",
+    "static/media/PAINT.png": "/static/media/PAINT.c8314099225b2aa214b9.png",
+    "static/media/PDFQR.png": "/static/media/PDFQR.39653f4d47e5263d7f25.png",
+    "static/media/vest_manual.png": "/static/media/vest_manual.12d31a423378cc620400.png",
+    "static/media/JACKET-2.png": "/static/media/JACKET-2.ede8fe57d6c55040dfea.png",
+    "static/media/logo.png": "/static/media/logo.9bbbc4b04edc8cc07c96.png",
+    "static/media/signature.png": "/static/media/signature.cf2396c8b71a6a1c85dc.png",
+    "static/media/Whitelogo.png": "/static/media/Whitelogo.41a5449e5f8abb6ec1af.png",
+    "index.html": "/index.html",
+    "main.99b3381e.css.map": "/static/css/main.99b3381e.css.map",
+    "main.48a7d313.js.map": "/static/js/main.48a7d313.js.map",
+    "498.47ea2969.chunk.js.map": "/static/js/498.47ea2969.chunk.js.map",
+    "703.2c790ccf.chunk.js.map": "/static/js/703.2c790ccf.chunk.js.map",
+    "598.2602b7a6.chunk.js.map": "/static/js/598.2602b7a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b3381e.css",
+    "static/js/main.48a7d313.js"
+  ]
+}
