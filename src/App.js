@@ -272,6 +272,7 @@ return (
             <Route exact path="/retailerDashboard/retailersent" element={<Login />}></Route>
             <Route exact path="/retailerDashboard/retailerModified" element={<Login />}></Route>
             <Route exact path="/retailer/newCustomer" element={<Login />}></Route>
+            <Route exact path="/retailer/retailerProfile" element={<Login />}></Route>
             <Route exact path="/retailer/retailershipment" element={<Login />}></Route>
             <Route exact path="/retailer/missingfabric" element={<Login />}></Route>
             <Route exact path="/retailer/productList/:id" element={<Login />}></Route>

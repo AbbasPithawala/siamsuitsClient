@@ -321,7 +321,7 @@ export default function Step4() {
           measurementsFinished['suit'] = true
           measurementsFinished['jacket'] = true
           measurementsFinished['pant'] = true
-          setMeasurementsFinished({...measurementsFinished})
+          setMeasurementsFinished({...measurementsFinished});
           setSuitCustomerMeasurements({ ...customer["suit"]});
         } else if (!suitFilledMeasurements.includes(res1.data.data[0]["name"])) {
           for (let x of res1.data.data[0].measurements) {
